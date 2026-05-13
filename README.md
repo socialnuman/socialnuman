@@ -23,7 +23,7 @@ I’ve worked with startups and international clients to design, build, and scal
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php)
-![Python](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/python-777BB4?style=for-the-badge&logo=python)
 
 ---
 
