@@ -1,7 +1,9 @@
 # 💫 About Me
 
-I am a **Senior Full-Stack Software Engineer** with **5+ years of professional experience** building scalable web and backend systems.  
+I am a **Senior Software Engineer** with **5+ years of professional experience** building scalable web and backend systems.  
 I specialize in **JavaScript/TypeScript ecosystems**, **API-driven architectures**, and **cloud-native applications**, with strong experience in **fintech, SaaS, and Web3 platforms**.
+
+Alongside full-stack development, I’ve also worked with **LLMs** and **AI-powered** systems, including building and experimenting with **AI agents**, **RAG workflows**, and automation tools for learning and practical applications using **Python** and modern AI frameworks.
 
 I’ve worked with startups and international clients to design, build, and scale **high-performance, maintainable systems** using modern frameworks, databases, and cloud services.
 
@@ -21,6 +23,7 @@ I’ve worked with startups and international clients to design, build, and scal
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=python)
 
 ---
 
